@@ -133,7 +133,7 @@ version         1.8
          <origin>0.5 0.5</origin>
          <pos>0.748 0.65</pos>
          <maxSize>0.43 0.43</maxSize>
-         <delay>0</delay>
+         <delay>2</delay>
          <zIndex>2</zIndex>         
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>true</showSnapshotDelay>

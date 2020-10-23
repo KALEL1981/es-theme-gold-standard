@@ -1,4 +1,4 @@
-theme:          NES BOX Theme designed by Travis Wilson (Super Retropie and Retro Gaming)
+theme:          Gold Standard Theme designed by Travis Wilson (Super Retropie and Retro Gaming)
 
 facebook:		www.facebook.com/groups/superretropie
 
@@ -6,7 +6,7 @@ twitter:		www.twitter.com/superretropie
 
 email:			superretropieretrogaming@gmail.com
 
-version         1.8
+version         1.0
 
 ------------------------------------------------------------------------------------------
 
@@ -20,7 +20,11 @@ Commercial distribution is prohibited
 
 ------------------------------------------------------------------------------------------
 
-Travis Wilson ( Super Retropie and Retro Gaming ) made this theme. Not "Supreme Wannabes" who make loaded images and boast about how great they are.
+Travis Wilson / Super Retropie and Retro Gaming / made this theme. 
+
+This theme is not for use with any kind of loaded images. 
+
+This theme is not for use with anything Supreme Retro Gaming related.
 
 ------------------------------------------------------------------------------------------
 

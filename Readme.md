@@ -6,7 +6,7 @@ twitter:		www.twitter.com/superretropie
 
 email:			superretropieretrogaming@gmail.com
 
-version         1.0
+version         1.3
 
 ------------------------------------------------------------------------------------------
 
@@ -79,6 +79,8 @@ auto-allgames
 auto-favorites
 
 auto-lastplayed
+
+barbie
 
 batman
 
@@ -192,6 +194,10 @@ genesis
 
 genesis-hacks
 
+genesis-mini
+
+ghostbusters
+
 ghoulsandghosts
 
 hacks
@@ -254,6 +260,10 @@ megadrive
 
 megadrive-hacks
 
+megadrive-j
+
+megadrive-mini
+
 megaduck
 
 megaman
@@ -261,6 +271,8 @@ megaman
 megamanx
 
 mess
+
+metalgear
 
 metalslug
 
@@ -272,11 +284,15 @@ mortalkombat
 
 msdos
 
+msu1
+
 msx
 
 msx2
 
 n64
+
+n64-hacks
 
 n64dd
 
@@ -290,9 +306,15 @@ nds
 
 needforspeed
 
-neogeo-cd
+neo-cd
+
+neocd
 
 neogeo
+
+neogeo-cd
+
+neogeocd
 
 nes
 
@@ -356,6 +378,8 @@ pv1000
 
 pv2000
 
+quake
+
 rampage
 
 residentevil
@@ -363,6 +387,8 @@ residentevil
 residualvm
 
 retropie
+
+rivercityransom
 
 roadrash
 
@@ -383,6 +409,8 @@ sega
 sega32x
 
 segacd
+
+sesamestreet
 
 sfc
 
@@ -407,6 +435,8 @@ snes-cd
 snes-classic
 
 snes-hacks
+
+snes-msu1
 
 snk
 
@@ -450,6 +480,10 @@ tg-cd
 
 tg16
 
+tg16cd
+
+tgcd
+
 ti99
 
 tiger
@@ -480,6 +514,8 @@ wiiu
 
 wiiware
 
+wolfenstein
+
 wonderswan
 
 wonderswancolor
@@ -490,7 +526,11 @@ x1
 
 x68000
 
+xbox
+
 xmen
+
+yoshi
 
 zelda
 
